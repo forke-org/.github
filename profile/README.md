@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/forke-assets/email-banners/main-banner.png" width="100%" alt="Forke Banner" />
+  <img src="https://raw.githubusercontent.com/forke-org/.github/main/profile/public/forke-assets/email-banners/main-banner.png" width="100%" alt="Forke Banner" />
 </p>
 
 <p align="center">
@@ -62,10 +62,10 @@ Need a quick feature built or a bug squashed, but don't want to hire a full-time
 **Forky** is Forke's official mascot—a mischievous, chibi orange creature who supports you throughout your entire developer journey! He reacts dynamically to what you do on the platform:
 
 <p align="center">
-  <img src="./public/forke-assets/forky-reactions/locked_in_forky.png" width="180" alt="Locked In Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./public/forke-assets/forky-reactions/grind_mode_forky.png" width="180" alt="Grind Mode Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./public/forke-assets/forky-reactions/loot_goblin_forky.png" width="180" alt="Loot Goblin Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./public/forke-assets/forky-reactions/confused_forky.png" width="180" alt="Confused Forky" />
+  <img src="https://raw.githubusercontent.com/forke-org/.github/main/profile/public/forke-assets/forky-reactions/locked_in_forky.png" width="180" alt="Locked In Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/forke-org/.github/main/profile/public/forke-assets/forky-reactions/grind_mode_forky.png" width="180" alt="Grind Mode Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/forke-org/.github/main/profile/public/forke-assets/forky-reactions/loot_goblin_forky.png" width="180" alt="Loot Goblin Forky" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/forke-org/.github/main/profile/public/forke-assets/forky-reactions/confused_forky.png" width="180" alt="Confused Forky" />
 </p>
 
 ---
